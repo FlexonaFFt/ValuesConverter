@@ -6,7 +6,7 @@ To get started, you need to import the Ivalueconverter module into your Python p
 Import ValuesConverter
 ~~~
 ## Functions
-You can use two types of Value Converter: ShortenedConverter and Converter Program.Let's start with the first one.For example, to convert the speed km/h to m/s, you can use the following function:
+You can use two types of Value Converter: ShortenedConverter and ConverterProgram.Let's start with the first one.For example, to convert the speed km/h to m/s, you can use the following function:
 ~~~Python
 ValuesConverter.kmh_to_ms(x)
 ~~~
